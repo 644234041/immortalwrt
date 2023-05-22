@@ -6,3 +6,8 @@ src-git-full telephony https://github.com/openwrt/telephony.git
 #src-git-full targets https://github.com/openwrt/targets.git
 #src-git-full oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
+#src-git passwall https://github.com/xiaorouji/openwrt-passwall
+#src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall
+src-git-full small8 https://github.com/kenzok8/small-package/small8.git
+#src-git kenzo https://github.com/kenzok8/openwrt-packages/kenzo.git
+#src-git small https://github.com/kenzok8/small/small.git
